@@ -27,5 +27,4 @@
 <br/>
 
 - 🏢 I am a Software Engineer at Kaiser Permanente
-- 🙋‍ More about me: Visit my [website](https://mjameer.github.io/)
-- 🖇 Follow me on [LinkedIn](https://linkedin.com/in/mj_ameer)
+- 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/mj-ameer/)

@@ -5,7 +5,7 @@
 ###### Glad to see you here 
 
    
-<a href="https://linkedin.com/in/mj_ameer">
+<a href="https://www.linkedin.com/in/mj-ameer/">
   <kbd>
   <img align="centre" alt="mjameer's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>

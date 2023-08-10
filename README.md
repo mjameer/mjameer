@@ -4,9 +4,6 @@
 
 ###### Glad to see you here 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mjameer&label=Views&color=blue&style=plastic" alt="mjameer" /> </p>
-
-
    
 <a href="https://linkedin.com/in/mj_ameer">
   <kbd>

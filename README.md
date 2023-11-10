@@ -23,5 +23,5 @@
 <br/>
 <br/>
 
-- 🏢 I am a Software Engineer at Kaiser Permanente
+- 🏢 I am a Software Engineer at Kaiser Permanente (Contract), TCS (Full time)
 - 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/mj-ameer/)

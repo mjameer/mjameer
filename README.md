@@ -25,3 +25,8 @@
 
 - 🏢 I am a Senior Cloud Backend Engineer at Kaiser Permanente (Contract), TCS (Full time)
 - 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/mj-ameer/) and [Medium](https://medium.com/@mj_ameer)
+
+<br/>
+<br/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjameer&show_icons=true&locale=en&layout=compact"/></p>

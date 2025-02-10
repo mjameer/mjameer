@@ -19,6 +19,15 @@
   <kbd>
   <img align="centre" alt="mjameer's Outlook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" />
 </a>
+<br/>
+<br/>
+
+- 🏢 I am a Senior Cloud Java Backend Engineer
+- 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/mj-ameer/) and [Medium](https://medium.com/@mj_ameer)
+
+<br/>
+
+<img width="475" alt="image" src="https://github.com/user-attachments/assets/74a83131-8d72-4353-9787-67615a1aad31" />
 
 
 #### Blogs I follow 
@@ -29,12 +38,3 @@
 - https://stripe.com/blog
 - https://www.linkedin.com/blog/engineering
 - https://netflixtechblog.com/
-<br/>
-<br/>
-
-- 🏢 I am a Senior Cloud Java Backend Engineer
-- 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/mj-ameer/) and [Medium](https://medium.com/@mj_ameer)
-
-<br/>
-
-<img width="475" alt="image" src="https://github.com/user-attachments/assets/74a83131-8d72-4353-9787-67615a1aad31" />

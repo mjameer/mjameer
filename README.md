@@ -20,6 +20,15 @@
   <img align="centre" alt="mjameer's Outlook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" />
 </a>
 
+
+#### Blogs I follow 
+
+- https://github.blog/
+- https://www.uber.com/blog/engineering/
+- https://dropbox.tech/
+- https://stripe.com/blog
+- https://www.linkedin.com/blog/engineering
+- https://netflixtechblog.com/
 <br/>
 <br/>
 

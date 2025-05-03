@@ -22,7 +22,7 @@
 <br/>
 <br/>
 
-- 🏢 I am a Senior Cloud Java Backend Engineer
+- 🏢 I am a Staff Software Engineer (Backend & Devops)
 - 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/mj-ameer/) and [Medium](https://medium.com/@mj_ameer)
 
 <br/>

@@ -24,7 +24,7 @@
 
 - 🏢 I am a Staff Software Engineer (Backend & Devops)
 - 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/mj-ameer/) and [Medium](https://medium.com/@mj_ameer)
-- Resume [GitHub](https://mjameer.github.io/Resume.pdf)
+- [My Resume](https://mjameer.github.io/Resume.pdf)
 
 <br/>
 

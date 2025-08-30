@@ -28,7 +28,8 @@
 
 <br/>
 
-<img width="475" alt="image" src="https://github.com/user-attachments/assets/74a83131-8d72-4353-9787-67615a1aad31" />
+<img width="305" height="295" alt="image" src="https://github.com/user-attachments/assets/0b2de537-e255-4756-b956-4c68ad8671ad" />
+
 
 
 #### Blogs I follow 

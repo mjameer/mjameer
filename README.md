@@ -57,15 +57,13 @@ I care about the unglamorous parts that make platforms trustworthy: clean servic
 
 Engineering blogs I follow closely:
 
-[GitHub Blog](https://github.blog/) ·
-[Uber Engineering](https://www.uber.com/blog/engineering/) ·
-[Netflix Tech Blog](https://netflixtechblog.com/) ·
-[Stripe Engineering](https://stripe.com/blog) ·
-[Dropbox Tech](https://dropbox.tech/) ·
-[LinkedIn Engineering](https://www.linkedin.com/blog/engineering)
-
-<br/>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mjameer&color=36BCF7&style=flat-square&label=profile+views" alt="Profile views" />
+  <a href="https://github.blog/"><img src="./assets/blogs/github.svg" width="32%" alt="GitHub Blog" /></a>
+  <a href="https://www.uber.com/blog/engineering/"><img src="./assets/blogs/uber.svg" width="32%" alt="Uber Engineering" /></a>
+  <a href="https://netflixtechblog.com/"><img src="./assets/blogs/netflix.svg" width="32%" alt="Netflix Tech Blog" /></a>
+</p>
+<p align="center">
+  <a href="https://stripe.com/blog"><img src="./assets/blogs/stripe.svg" width="32%" alt="Stripe Engineering" /></a>
+  <a href="https://dropbox.tech/"><img src="./assets/blogs/dropbox.svg" width="32%" alt="Dropbox Tech" /></a>
+  <a href="https://www.linkedin.com/blog/engineering"><img src="./assets/blogs/linkedin.svg" width="32%" alt="LinkedIn Engineering" /></a>
 </p>

@@ -28,9 +28,9 @@ for src in re.findall(r'<img[^>]*src="(https?://[^"]+)"', readme):
     warnings.append(f"External image (could break if that site changes): {src}")
 
 # 3. Every link still works
-BLOCKING = {401, 403, 429, 999}
+BLOCKING = {401, 403, 406, 429, 999}
 def status(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (profile-link-check)"})
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (profile-link-check)", "Accept": "text/html,application/pdf,*/*"})
     try:
         with urllib.request.urlopen(req, timeout=25) as r:
             return r.status, r.headers.get("Content-Type", "")

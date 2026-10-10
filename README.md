@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohiadeen-ameer/"><img src="./assets/btn-linkedin.svg" height="36" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@mj_ameer"><img src="./assets/btn-medium.svg" height="36" alt="Medium" /></a>
+  <a href="https://medium.com/@mohiadeen-ameer"><img src="./assets/btn-medium.svg" height="36" alt="Medium" /></a>
   <a href="https://mjameer.github.io/Resume.pdf"><img src="./assets/btn-resume.svg" height="36" alt="Resume" /></a>
   <a href="https://www.instagram.com/_with_mj/"><img src="./assets/btn-instagram.svg" height="36" alt="Instagram" /></a>
 </p>
@@ -83,9 +83,9 @@ Engineering blogs I follow closely:
 ## `> writing`
 
 <p align="center">
-  <a href="https://medium.com/@mj_ameer/intelligent-automation-advancing-operational-resilience-through-event-driven-validation-b02b65c130bb"><img src="./assets/writing/supportplus.svg" width="32%" alt="Article: SupportPlus, self-healing for 200+ applications" /></a>
-  <a href="https://medium.com/@mj_ameer/how-i-improved-backend-communication-with-grpc-and-protobuf-in-a-large-scale-healthcare-system-d534a62a2c47"><img src="./assets/writing/grpc.svg" width="32%" alt="Article: from REST to gRPC in a healthcare platform" /></a>
-  <a href="https://medium.com/@mj_ameer/guide-to-migrate-java-applications-from-was-to-liberty-129cfff9d31d"><img src="./assets/writing/liberty.svg" width="32%" alt="Article: migrating Java apps from WebSphere to Liberty" /></a>
+  <a href="https://medium.com/@mohiadeen-ameer/intelligent-automation-advancing-operational-resilience-through-event-driven-validation-b02b65c130bb"><img src="./assets/writing/supportplus.svg" width="32%" alt="Article: SupportPlus, self-healing for 200+ applications" /></a>
+  <a href="https://medium.com/@mohiadeen-ameer/how-i-improved-backend-communication-with-grpc-and-protobuf-in-a-large-scale-healthcare-system-d534a62a2c47"><img src="./assets/writing/grpc.svg" width="32%" alt="Article: from REST to gRPC in a healthcare platform" /></a>
+  <a href="https://medium.com/@mohiadeen-ameer/guide-to-migrate-java-applications-from-was-to-liberty-129cfff9d31d"><img src="./assets/writing/liberty.svg" width="32%" alt="Article: migrating Java apps from WebSphere to Liberty" /></a>
 </p>
 
-<p align="center"><a href="https://medium.com/@mj_ameer">More articles on Medium →</a></p>
+<p align="center"><a href="https://medium.com/@mohiadeen-ameer">More articles on Medium →</a></p>

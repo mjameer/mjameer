@@ -18,30 +18,21 @@
 
 <br/>
 
-## `> about`
-
-I'm a **Principal Software Engineer at Dell Technologies** with ~14 years of building backend systems. Today I work on the distributed job orchestration engine behind **Dell OpenManage Enterprise** — a set of Go microservices running on **k3s**, talking over **Kafka**, and backed by **Valkey** and **PostgreSQL**.
-
-I care about the unglamorous parts that make platforms trustworthy: clean service boundaries, failure handling, secrets management, and systems that are easy to operate at 3 a.m. I'm growing toward **software architecture and technical leadership**.
+<p align="center">
+  <img src="./assets/impact.svg" width="100%" alt="Impact: 14+ years, 10K concurrent jobs in production, ~100K servers managed, 96% faster critical reports, $900K support cost saved per year" />
+</p>
 
 <br/>
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>⚙️ Distributed Systems</h3>
-      Event-driven Go microservices, job scheduling and execution, Kafka-based messaging, retries, idempotency and backpressure.
-    </td>
-    <td width="33%" valign="top">
-      <h3>☸️ Platform &amp; Infra</h3>
-      Kubernetes and k3s, containerized delivery with Docker, stateful services like PostgreSQL and Valkey, secrets with OpenBao.
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧭 Engineering Leadership</h3>
-      System design, architecture reviews, debugging production issues across services, and mentoring engineers.
-    </td>
-  </tr>
-</table>
+## `> about`
+
+I'm a **Principal Software Engineer at Dell Technologies** with 14 years of building backend and cloud platforms. I set the technical direction for the distributed job orchestration engine behind **Dell OpenManage Enterprise**: Go microservices on **k3s**, coordinated through **Kafka** and backed by **Valkey** and **PostgreSQL**, running 10,000 concurrent jobs in production.
+
+I care about the unglamorous parts that make platforms trustworthy: clean service boundaries, failure handling, secrets management, and systems that are easy to operate at 3 a.m.
+
+<p align="center">
+  <img src="./assets/focus.svg" width="100%" alt="Focus areas: distributed systems, platform and infrastructure, technical leadership" />
+</p>
 
 <br/>
 
@@ -50,6 +41,14 @@ I care about the unglamorous parts that make platforms trustworthy: clean servic
 <p align="center">
   <a href="https://dl.dell.com/content/manual4185069-visualizing-openmanage-enterprise-alerts-and-telemetry-in-grafana-through-kafka.pdf?language=en-us"><img src="./assets/featured/whitepaper.svg" width="49%" alt="Dell whitepaper: Visualizing OpenManage Enterprise Alerts and Telemetry in Grafana through Kafka" /></a>
   <a href="https://github.com/mjameer/OpenManage-Enterprise/tree/main/Kafka"><img src="./assets/featured/kafka-project.svg" width="49%" alt="Open-source OpenManage Enterprise to Kafka to Grafana reference implementation" /></a>
+</p>
+
+<br/>
+
+## `> career`
+
+<p align="center">
+  <img src="./assets/timeline.svg" width="100%" alt="Career timeline: Tata Consultancy Services 2011, Cloud Architect 2016, TP-Link 2024, Dell Technologies 2025 to now" />
 </p>
 
 <br/>
@@ -75,4 +74,10 @@ Engineering blogs I follow closely:
   <a href="https://stripe.com/blog"><img src="./assets/blogs/stripe.svg" width="32%" alt="Stripe Engineering" /></a>
   <a href="https://dropbox.tech/"><img src="./assets/blogs/dropbox.svg" width="32%" alt="Dropbox Tech" /></a>
   <a href="https://www.linkedin.com/blog/engineering"><img src="./assets/blogs/linkedin.svg" width="32%" alt="LinkedIn Engineering" /></a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by" />
 </p>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="196" viewBox="0 0 1200 196" role="img" aria-label="Impact: 14+ years, 10K concurrent jobs, ~100K servers managed, 96% faster critical reports, $900K saved per year">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#0F1E36"/></linearGradient>
+<linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#36BCF7"/><stop offset="1" stop-color="#7C9CFF"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.035"/></pattern>
+<clipPath id="k"><rect width="1200" height="196" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#k)"><rect width="1200" height="196" fill="url(#bg)"/><rect width="1200" height="196" fill="url(#grid)"/></g>
+<rect x="0.5" y="0.5" width="1199" height="195" rx="18" fill="none" stroke="#22344F"/>
+<text x="40" y="44" fill="#36BCF7" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" letter-spacing="2">$ kubectl top impact</text>
+<text x="40" y="112" fill="#F5F8FC" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="-1">14<tspan fill="#36BCF7">+</tspan></text>
+<rect x="40" y="124" width="0" height="3" rx="1.5" fill="#36BCF7"><animate attributeName="width" from="0" to="44" begin="0.00s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></rect>
+<text x="40" y="150" fill="#9AAAC0" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5">years building backend</text>
+<text x="40" y="169" fill="#9AAAC0" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5">and cloud platforms</text>
+<line x1="250" y1="72" x2="250" y2="164" stroke="#22344F"/>
+<text x="264" y="112" fill="#F5F8FC" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="-1">10K<tspan fill="#3DDC97"></tspan></text>
+<rect x="264" y="124" width="0" height="3" rx="1.5" fill="#3DDC97"><animate attributeName="width" from="0" to="44" begin="0.15s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></rect>
+<text x="264" y="150" fill="#9AAAC0" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5">concurrent jobs</text>
+<text x="264" y="169" fill="#9AAAC0" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5">running in production</text>
+<line x1="474" y1="72" x2="474" y2="164" stroke="#22344F"/>
+<text x="488" y="112" fill="#F5F8FC" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="-1">~100K<tspan fill="#7C9CFF"></tspan></text>
+<rect x="488" y="124" width="0" height="3" rx="1.5" fill="#7C9CFF"><animate attributeName="width" from="0" to="44" begin="0.30s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></rect>
+<text x="488" y="150" fill="#9AAAC0" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5">servers managed by</text>
+<text x="488" y="169" fill="#9AAAC0" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5">the platform I architect</text>
+<line x1="698" y1="72" x2="698" y2="164" stroke="#22344F"/>
+<text x="712" y="112" fill="#F5F8FC" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="-1">96<tspan fill="#F5B14C">%</tspan></text>
+<rect x="712" y="124" width="0" height="3" rx="1.5" fill="#F5B14C"><animate attributeName="width" from="0" to="44" begin="0.45s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></rect>
+<text x="712" y="150" fill="#9AAAC0" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5">faster critical</text>
+<text x="712" y="169" fill="#9AAAC0" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5">report generation</text>
+<line x1="922" y1="72" x2="922" y2="164" stroke="#22344F"/>
+<text x="936" y="112" fill="#F5F8FC" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="-1">$900K<tspan fill="#E879A6"></tspan></text>
+<rect x="936" y="124" width="0" height="3" rx="1.5" fill="#E879A6"><animate attributeName="width" from="0" to="44" begin="0.60s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/></rect>
+<text x="936" y="150" fill="#9AAAC0" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5">support cost saved</text>
+<text x="936" y="169" fill="#9AAAC0" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5">every year</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Career: Senior Software Engineer at Tata Consultancy Services 2011, Cloud Architect 2016, Staff Software Engineer at TP-Link 2024, Principal Software Engineer at Dell Technologies 2025 to now">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#0F1E36"/></linearGradient>
+<linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#36BCF7"/><stop offset="1" stop-color="#7C9CFF"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.035"/></pattern>
+<clipPath id="k"><rect width="1200" height="300" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#k)"><rect width="1200" height="300" fill="url(#bg)"/><rect width="1200" height="300" fill="url(#grid)"/></g>
+<rect x="0.5" y="0.5" width="1199" height="299" rx="18" fill="none" stroke="#22344F"/>
+<text x="40" y="44" fill="#36BCF7" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" letter-spacing="2">$ git log --career --oneline</text>
+<defs><linearGradient id="tl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2B3F5C"/><stop offset="0.7" stop-color="#3DDC97"/><stop offset="1" stop-color="#36BCF7"/></linearGradient></defs>
+<line x1="70" y1="130" x2="1130" y2="130" stroke="#1C2C44" stroke-width="4" stroke-linecap="round"/>
+<line x1="70" y1="130" x2="70" y2="130" stroke="url(#tl)" stroke-width="4" stroke-linecap="round"><animate attributeName="x2" from="70" to="1130" dur="1.8s" fill="freeze" calcMode="spline" keySplines="0.3 0.7 0.2 1" keyTimes="0;1"/></line>
+<text x="150" y="100" fill="#8A9BB3" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="1">2011</text>
+<circle cx="150" cy="130" r="10" fill="#0B1220" stroke="#6F82A0" stroke-width="3"/><circle cx="150" cy="130" r="4" fill="#6F82A0"/>
+<text x="150" y="176" fill="#F5F8FC" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17.5" font-weight="700" text-anchor="middle">Senior Software Engineer</text>
+<text x="150" y="202" fill="#9AAAC0" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="middle">Tata Consultancy Services</text>
+<text x="150" y="226" fill="#6F82A0" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" text-anchor="middle">Chennai · Kaiser, USAA, Target</text>
+<text x="450" y="100" fill="#8A9BB3" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="1">2016</text>
+<circle cx="450" cy="130" r="10" fill="#0B1220" stroke="#F5B14C" stroke-width="3"/><circle cx="450" cy="130" r="4" fill="#F5B14C"/>
+<text x="450" y="176" fill="#F5F8FC" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17.5" font-weight="700" text-anchor="middle">Cloud Architect</text>
+<text x="450" y="202" fill="#F5B14C" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="middle">Tata Consultancy Services</text>
+<text x="450" y="226" fill="#6F82A0" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" text-anchor="middle">Pasadena · Kaiser Permanente</text>
+<text x="750" y="100" fill="#8A9BB3" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="1">2024</text>
+<circle cx="750" cy="130" r="10" fill="#0B1220" stroke="#3DDC97" stroke-width="3"/><circle cx="750" cy="130" r="4" fill="#3DDC97"/>
+<text x="750" y="176" fill="#F5F8FC" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17.5" font-weight="700" text-anchor="middle">Staff Software Engineer</text>
+<text x="750" y="202" fill="#3DDC97" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="middle">TP-Link Systems</text>
+<text x="750" y="226" fill="#6F82A0" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" text-anchor="middle">Irvine, CA</text>
+<text x="1050" y="100" fill="#36BCF7" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="1">2025 – NOW</text>
+<circle cx="1050" cy="130" r="10" fill="none" stroke="#36BCF7"><animate attributeName="r" values="10;22;10" dur="2.4s" repeatCount="indefinite"/><animate attributeName="stroke-opacity" values="0.8;0;0.8" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="1050" cy="130" r="10" fill="#0B1220" stroke="#36BCF7" stroke-width="3"/><circle cx="1050" cy="130" r="4" fill="#36BCF7"/>
+<text x="1050" y="176" fill="#F5F8FC" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17.5" font-weight="700" text-anchor="middle">Principal Software Engineer</text>
+<text x="1050" y="202" fill="#36BCF7" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="middle">Dell Technologies</text>
+<text x="1050" y="226" fill="#6F82A0" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" text-anchor="middle">Round Rock, TX</text>
+</svg>

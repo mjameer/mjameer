@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="./assets/typing.svg" width="760" alt="Building distributed job orchestration in Go · Event-driven systems on Kafka + Kubernetes · Platform &amp; infrastructure that stays up" />
+  <a href="https://mjameer.github.io/Resume.pdf"><img src="./assets/typing.svg" width="760" alt="Building distributed job orchestration in Go · Event-driven systems on Kafka + Kubernetes · Platform &amp; infrastructure that stays up" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohiadeen-ameer/"><img src="./assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@mj_ameer"><img src="./assets/btn-medium.svg" height="44" alt="Medium" /></a>
-  <a href="https://mjameer.github.io/Resume.pdf"><img src="./assets/btn-resume.svg" height="44" alt="Resume" /></a>
-  <a href="https://www.instagram.com/_with_mj/"><img src="./assets/btn-instagram.svg" height="44" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/mohiadeen-ameer/"><img src="./assets/btn-linkedin.svg" height="36" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@mj_ameer"><img src="./assets/btn-medium.svg" height="36" alt="Medium" /></a>
+  <a href="https://mjameer.github.io/Resume.pdf"><img src="./assets/btn-resume.svg" height="36" alt="Resume" /></a>
+  <a href="https://www.instagram.com/_with_mj/"><img src="./assets/btn-instagram.svg" height="36" alt="Instagram" /></a>
 </p>
 
 <br/>
@@ -71,6 +71,11 @@ Engineering blogs I follow closely:
   <a href="https://stripe.com/blog"><img src="./assets/blogs/stripe.svg" width="32%" alt="Stripe Engineering" /></a>
   <a href="https://dropbox.tech/"><img src="./assets/blogs/dropbox.svg" width="32%" alt="Dropbox Tech" /></a>
   <a href="https://www.linkedin.com/blog/engineering"><img src="./assets/blogs/linkedin.svg" width="32%" alt="LinkedIn Engineering" /></a>
+</p>
+<p align="center">
+  <a href="https://strimzi.io/blog/"><img src="./assets/blogs/strimzi.svg" width="32%" alt="Strimzi Blog" /></a>
+  <a href="https://opensearch.org/blog/"><img src="./assets/blogs/opensearch.svg" width="32%" alt="OpenSearch Blog" /></a>
+  <a href="https://spring.io/blog"><img src="./assets/blogs/spring.svg" width="32%" alt="Spring Blog" /></a>
 </p>
 
 <br/>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="104" viewBox="0 0 380 104" role="img" aria-label="Strimzi Blog">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#0F1E36"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="379" height="103" rx="14" fill="url(#bg)" stroke="#26405F"/>
+<rect x="0.5" y="22" width="3" height="60" rx="1.5" fill="#F5B14C"/>
+<rect x="22" y="28" width="48" height="48" rx="12" fill="#0E1B2E" stroke="#26405F"/>
+<text x="46" y="58.5" fill="#F5B14C" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">St</text>
+<text x="88" y="48" fill="#F5F8FC" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="600">Strimzi Blog</text>
+<text x="88" y="72" fill="#6F82A0" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5">strimzi.io/blog</text>
+<text x="352" y="58" fill="#4A5F7E" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" text-anchor="middle">↗</text>
+</svg>

@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="121" height="44" viewBox="0 0 121 44" role="img" aria-label="Resume">
-<rect x="0.5" y="0.5" width="120" height="43" rx="10" fill="#0E1B2E" stroke="#26405F"/>
-<g transform="translate(16 11) scale(0.9167)"><g fill="none" stroke="#3DDC97" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><path d="M5 2h10l5 5v15H5z"/><path d="M15 2v5h5"/><path d="M8.5 12h8M8.5 16h8M8.5 8h3"/></g></g>
-<text x="48" y="27.5" fill="#E3EAF4" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600">Resume</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="121" height="36" viewBox="0 0 121 36" role="img" aria-label="Resume">
+<rect width="121" height="36" rx="3" fill="#0E1B2E"/>
+<g transform="translate(14 9) scale(0.75)"><g fill="none" stroke="#3DDC97" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><path d="M5 2h10l5 5v15H5z"/><path d="M15 2v5h5"/><path d="M8.5 12h8M8.5 16h8M8.5 8h3"/></g></g>
+<text x="44" y="23" fill="#FFFFFF" font-family="Verdana, 'DejaVu Sans', Geneva, sans-serif" font-size="12" font-weight="700" letter-spacing="2.2">RESUME</text>
 </svg>

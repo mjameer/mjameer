@@ -3,13 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=36BCF7&center=true&vCenter=true&width=720&lines=Building+distributed+job+orchestration+in+Go;Event-driven+systems+on+Kafka+%2B+Kubernetes;Platform+%26+infrastructure+that+stays+up" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=36BCF7&center=true&vCenter=true&width=720&lines=Building+distributed+job+orchestration+in+Go;Event-driven+systems+on+Kafka+%2B+Kubernetes;Platform+%26+infrastructure+that+stays+up" alt="Building distributed job orchestration in Go" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohiadeen-ameer/"><img src="https://img.shields.io/badge/LinkedIn-0E1B2E?style=for-the-badge&logo=linkedin&logoColor=36BCF7" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/mohiadeen-ameer/"><img src="https://img.shields.io/badge/LinkedIn-0E1B2E?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzM2QkNGNyIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
   <a href="https://medium.com/@mj_ameer"><img src="https://img.shields.io/badge/Medium-0E1B2E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://mjameer.github.io/Resume.pdf"><img src="https://img.shields.io/badge/Resume-0E1B2E?style=for-the-badge&logo=readthedocs&logoColor=3DDC97" alt="Resume" /></a>
   <a href="https://www.instagram.com/_with_mj/"><img src="https://img.shields.io/badge/Instagram-0E1B2E?style=for-the-badge&logo=instagram&logoColor=E879A6" alt="Instagram" /></a>

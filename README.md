@@ -78,6 +78,10 @@ Engineering blogs I follow closely:
 
 <br/>
 
+## `> projects`
+
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by" />
+  <a href="https://github.com/mjameer/Case-Study-Java21"><img src="./assets/projects/java21.svg" width="32%" alt="Case study: Java 8 to 21 with zero code changes, 50% less heap and 74% less CPU" /></a>
+  <a href="https://github.com/mjameer/MemoryLeaks-in-Containerized-JVM"><img src="./assets/projects/memory-leaks.svg" width="32%" alt="Playbook: finding memory leaks in containerized JVMs" /></a>
+  <a href="https://github.com/mjameer/Performance-Improvement-10years-Old-App"><img src="./assets/projects/legacy-rescue.svg" width="32%" alt="Case study: rescuing a 10-year-old enterprise app, 23+ incidents a month to zero" /></a>
 </p>

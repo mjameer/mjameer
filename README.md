@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohiadeen-ameer/"><img src="https://img.shields.io/badge/LinkedIn-0E1B2E?style=for-the-badge&logo=linkedin&logoColor=36BCF7" alt="LinkedIn" /></a>
   <a href="https://medium.com/@mj_ameer"><img src="https://img.shields.io/badge/Medium-0E1B2E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://mjameer.github.io/Mohiadeen_Ameer_Resume.pdf"><img src="https://img.shields.io/badge/Resume-0E1B2E?style=for-the-badge&logo=readthedocs&logoColor=3DDC97" alt="Resume" /></a>
+  <a href="https://mjameer.github.io/Resume.pdf"><img src="https://img.shields.io/badge/Resume-0E1B2E?style=for-the-badge&logo=readthedocs&logoColor=3DDC97" alt="Resume" /></a>
   <a href="mailto:mohiadeen.ameer@outlook.com"><img src="https://img.shields.io/badge/Email-0E1B2E?style=for-the-badge&logo=maildotru&logoColor=7C9CFF" alt="Email" /></a>
   <a href="https://www.instagram.com/_with_mj/"><img src="https://img.shields.io/badge/Instagram-0E1B2E?style=for-the-badge&logo=instagram&logoColor=E879A6" alt="Instagram" /></a>
 </p>

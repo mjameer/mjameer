@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="280" viewBox="0 0 380 280" role="img" aria-label="From REST to gRPC in a healthcare platform">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1220"/><stop offset="1" stop-color="#0F1E36"/></linearGradient>
+<radialGradient id="g" cx="1" cy="0" r="0.8"><stop offset="0" stop-color="#7C9CFF" stop-opacity="0.13"/><stop offset="1" stop-color="#7C9CFF" stop-opacity="0"/></radialGradient>
+<clipPath id="k"><rect x="0.5" y="0.5" width="379" height="279" rx="16"/></clipPath></defs>
+<g clip-path="url(#k)"><rect width="380" height="280" fill="url(#bg)"/><rect width="380" height="280" fill="url(#g)"/><rect width="380" height="3" fill="#7C9CFF"/></g>
+<rect x="0.5" y="0.5" width="379" height="279" rx="16" fill="none" stroke="#22344F"/>
+<text x="24" y="42" fill="#7C9CFF" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11" letter-spacing="1.4">ARTICLE · ARCHITECTURE · 2025</text>
+<text x="24" y="78" fill="#F5F8FC" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700">From REST to gRPC in a</text>
+<text x="24" y="104" fill="#F5F8FC" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700">healthcare platform</text>
+<text x="24" y="140" fill="#9AAAC0" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14">Why and how service calls moved</text>
+<text x="24" y="160" fill="#9AAAC0" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14">to gRPC and Protobuf, with results.</text>
+<rect x="24" y="186" width="53" height="26" rx="13" fill="#0B1525" stroke="#7C9CFF" stroke-opacity="0.45"/>
+<text x="50" y="203.5" fill="#7C9CFF" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="600" text-anchor="middle">gRPC</text>
+<rect x="85" y="186" width="82" height="26" rx="13" fill="#0B1525" stroke="#7C9CFF" stroke-opacity="0.45"/>
+<text x="126" y="203.5" fill="#7C9CFF" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="600" text-anchor="middle">Protobuf</text>
+<rect x="175" y="186" width="104" height="26" rx="13" fill="#0B1525" stroke="#7C9CFF" stroke-opacity="0.45"/>
+<text x="227" y="203.5" fill="#7C9CFF" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="600" text-anchor="middle">Spring Boot</text>
+<text x="24" y="248" fill="#E3EAF4" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600">Read on Medium <tspan fill="#7C9CFF">↗</tspan></text>
+</svg>

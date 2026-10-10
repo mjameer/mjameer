@@ -80,10 +80,12 @@ Engineering blogs I follow closely:
 
 <br/>
 
-## `> projects`
+## `> writing`
 
 <p align="center">
-  <a href="https://github.com/mjameer/Case-Study-Java21"><img src="./assets/projects/java21.svg" width="32%" alt="Case study: Java 8 to 21 with zero code changes, 50% less heap and 74% less CPU" /></a>
-  <a href="https://github.com/mjameer/MemoryLeaks-in-Containerized-JVM"><img src="./assets/projects/memory-leaks.svg" width="32%" alt="Playbook: finding memory leaks in containerized JVMs" /></a>
-  <a href="https://github.com/mjameer/Performance-Improvement-10years-Old-App"><img src="./assets/projects/legacy-rescue.svg" width="32%" alt="Case study: rescuing a 10-year-old enterprise app, 23+ incidents a month to zero" /></a>
+  <a href="https://medium.com/@mj_ameer/intelligent-automation-advancing-operational-resilience-through-event-driven-validation-b02b65c130bb"><img src="./assets/writing/supportplus.svg" width="32%" alt="Article: SupportPlus, self-healing for 200+ applications" /></a>
+  <a href="https://medium.com/@mj_ameer/how-i-improved-backend-communication-with-grpc-and-protobuf-in-a-large-scale-healthcare-system-d534a62a2c47"><img src="./assets/writing/grpc.svg" width="32%" alt="Article: from REST to gRPC in a healthcare platform" /></a>
+  <a href="https://medium.com/@mj_ameer/guide-to-migrate-java-applications-from-was-to-liberty-129cfff9d31d"><img src="./assets/writing/liberty.svg" width="32%" alt="Article: migrating Java apps from WebSphere to Liberty" /></a>
 </p>
+
+<p align="center"><a href="https://medium.com/@mj_ameer">More articles on Medium →</a></p>

@@ -45,6 +45,15 @@ I care about the unglamorous parts that make platforms trustworthy: clean servic
 
 <br/>
 
+## `> featured work`
+
+<p align="center">
+  <a href="https://dl.dell.com/content/manual4185069-visualizing-openmanage-enterprise-alerts-and-telemetry-in-grafana-through-kafka.pdf?language=en-us"><img src="./assets/featured/whitepaper.svg" width="49%" alt="Dell whitepaper: Visualizing OpenManage Enterprise Alerts and Telemetry in Grafana through Kafka" /></a>
+  <a href="https://github.com/mjameer/OpenManage-Enterprise/tree/main/Kafka"><img src="./assets/featured/kafka-project.svg" width="49%" alt="Open-source OpenManage Enterprise to Kafka to Grafana reference implementation" /></a>
+</p>
+
+<br/>
+
 ## `> stack`
 
 <p align="center">

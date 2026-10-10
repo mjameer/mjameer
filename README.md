@@ -3,13 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://mjameer.github.io/Resume.pdf"><img src="./assets/typing.svg" width="760" alt="Building distributed job orchestration in Go · Event-driven systems on Kafka + Kubernetes · Platform &amp; infrastructure that stays up" /></a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/mohiadeen-ameer/"><img src="./assets/btn-linkedin.svg" height="36" alt="LinkedIn" /></a>
   <a href="https://medium.com/@mohiadeen-ameer"><img src="./assets/btn-medium.svg" height="36" alt="Medium" /></a>
-  <a href="https://mjameer.github.io/Resume.pdf"><img src="./assets/btn-resume.svg" height="36" alt="Resume" /></a>
+  <a href="https://mohiadeen-ameer.github.io/Resume.pdf"><img src="./assets/btn-resume.svg" height="36" alt="Resume" /></a>
   <a href="https://www.instagram.com/_with_mj/"><img src="./assets/btn-instagram.svg" height="36" alt="Instagram" /></a>
 </p>
 
@@ -37,7 +33,7 @@ I care about the unglamorous parts that make platforms trustworthy: clean servic
 
 <p align="center">
   <a href="https://dl.dell.com/content/manual4185069-visualizing-openmanage-enterprise-alerts-and-telemetry-in-grafana-through-kafka.pdf?language=en-us"><img src="./assets/featured/whitepaper.svg" width="49%" alt="Dell whitepaper: Visualizing OpenManage Enterprise Alerts and Telemetry in Grafana through Kafka" /></a>
-  <a href="https://github.com/mjameer/OpenManage-Enterprise/tree/main/Kafka"><img src="./assets/featured/kafka-project.svg" width="49%" alt="Open-source OpenManage Enterprise to Kafka to Grafana reference implementation" /></a>
+  <a href="https://github.com/mohiadeen-ameer/OpenManage-Enterprise/tree/main/Kafka"><img src="./assets/featured/kafka-project.svg" width="49%" alt="Open-source OpenManage Enterprise to Kafka to Grafana reference implementation" /></a>
 </p>
 
 <br/>

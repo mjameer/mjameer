@@ -41,7 +41,7 @@ I care about the unglamorous parts that make platforms trustworthy: clean servic
 ## `> career`
 
 <p align="center">
-  <img src="./assets/timeline-v2.svg" width="100%" alt="Career timeline: Tata Consultancy Services 2011, Cloud Architect at Kaiser Permanente 2016, TP-Link 2024, Dell Technologies 2025 to now" />
+  <img src="./assets/timeline-v3.svg" width="100%" alt="Career timeline: Tata Consultancy Services 2011, Cloud Architect at Kaiser Permanente 2016, TP-Link 2024, Dell Technologies 2025 to now" />
 </p>
 
 <br/>

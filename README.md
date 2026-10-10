@@ -56,7 +56,7 @@ I care about the unglamorous parts that make platforms trustworthy: clean servic
 ## `> stack`
 
 <p align="center">
-  <img src="./assets/stack.svg" width="100%" alt="Tech stack: Go, Java, Python, Bash, Apache Kafka, PostgreSQL, Valkey, Kubernetes, k3s, Docker, Linux, OpenBao, Git, GitHub Actions" />
+  <img src="./assets/stack.svg" width="100%" alt="Tech stack: Go, Java, Python, Bash, Apache Kafka, Strimzi, Debezium, PostgreSQL, Valkey, OpenSearch, Kubernetes, k3s, Docker, Linux, OpenBao, Git, GitHub Actions" />
 </p>
 
 <br/>

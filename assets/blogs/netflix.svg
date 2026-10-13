@@ -3,7 +3,7 @@
 <rect x="0.5" y="0.5" width="379" height="103" rx="14" fill="url(#bg)" stroke="#26405F"/>
 <rect x="0.5" y="22" width="3" height="60" rx="1.5" fill="#F0505A"/>
 <rect x="22" y="28" width="48" height="48" rx="12" fill="#0E1B2E" stroke="#26405F"/>
-<text x="46" y="58.5" fill="#F0505A" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">N</text>
+<path transform="translate(34 40)" fill="#F0505A" d="m5.398 0 8.348 23.602c2.346.059 4.856.398 4.856.398L10.113 0H5.398zm8.489 0v9.172l4.715 13.33V0h-4.715zM5.398 1.5V24c1.873-.225 2.81-.312 4.715-.398V14.83L5.398 1.5z"/>
 <text x="88" y="48" fill="#F5F8FC" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="600">Netflix Tech Blog</text>
 <text x="88" y="72" fill="#6F82A0" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5">netflixtechblog.com</text>
 <text x="352" y="58" fill="#4A5F7E" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" text-anchor="middle">↗</text>

@@ -6,7 +6,6 @@
   <a href="https://www.linkedin.com/in/mohiadeen-ameer/"><img src="./assets/btn-linkedin.svg" height="36" alt="LinkedIn" /></a>
   <a href="https://medium.com/@mohiadeen-ameer"><img src="./assets/btn-medium.svg" height="36" alt="Medium" /></a>
   <a href="https://mohiadeen-ameer.github.io/Resume.pdf"><img src="./assets/btn-resume.svg" height="36" alt="Resume" /></a>
-  <a href="https://www.instagram.com/_with_mj/"><img src="./assets/btn-instagram.svg" height="36" alt="Instagram" /></a>
 </p>
 
 <br/>

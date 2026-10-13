@@ -81,9 +81,9 @@ Engineering blogs I follow closely:
 Books on architecture and observability I keep coming back to:
 
 <p align="center">
-  <a href="https://martinfowler.com/books/refactoring.html"><img src="./assets/book-cards/refactoring.svg" width="32%" alt="Refactoring by Martin Fowler" /></a>
-  <a href="https://martinfowler.com/books/eaa.html"><img src="./assets/book-cards/poeaa.svg" width="32%" alt="Patterns of Enterprise Application Architecture by Martin Fowler" /></a>
-  <a href="https://martinfowler.com/books/patterns-distributed.html"><img src="./assets/book-cards/pods.svg" width="32%" alt="Patterns of Distributed Systems by Unmesh Joshi" /></a>
+  <a href="https://martinfowler.com/books/refactoring.html"><img src="./assets/book-cards/refactoring-v2.svg" width="32%" alt="Refactoring by Martin Fowler" /></a>
+  <a href="https://martinfowler.com/books/eaa.html"><img src="./assets/book-cards/poeaa-v2.svg" width="32%" alt="Patterns of Enterprise Application Architecture by Martin Fowler" /></a>
+  <a href="https://martinfowler.com/books/patterns-distributed.html"><img src="./assets/book-cards/pods-v2.svg" width="32%" alt="Patterns of Distributed Systems by Unmesh Joshi" /></a>
 </p>
 <p align="center">
   <a href="https://www.oreilly.com/library/view/observability-engineering/9781492076438/"><img src="./assets/book-cards/observability-engineering.svg" width="32%" alt="Observability Engineering by Majors, Fong-Jones and Miranda" /></a>

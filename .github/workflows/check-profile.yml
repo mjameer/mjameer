@@ -16,5 +16,9 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v5
+      - name: Check light-mode panels are up to date
+        run: |
+          python3 .github/scripts/make_light.py
+          git diff --exit-code -- assets/light || { echo "::error::Light-mode panels are out of date. Run: python3 .github/scripts/make_light.py"; exit 1; }
       - name: Check images and links
         run: python3 .github/scripts/check_profile.py

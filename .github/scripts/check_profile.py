@@ -12,7 +12,7 @@ readme = (root / "README.md").read_text(encoding="utf-8")
 errors, warnings = [], []
 
 # 1. Every local image exists and is valid SVG
-for src in sorted(set(re.findall(r'src="\./([^"]+)"', readme))):
+for src in sorted(set(re.findall(r'(?:src|srcset)="\./([^"]+)"', readme))):
     path = root / src
     if not path.exists():
         errors.append(f"Missing image: {src}")

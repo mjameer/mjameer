@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="104" viewBox="0 0 380 104" role="img" aria-label="LinkedIn Engineering">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F3F6FA"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="379" height="103" rx="14" fill="url(#bg)" stroke="#D0D7DE"/>
+<rect x="0.5" y="22" width="3" height="60" rx="1.5" fill="#1A8F5A"/>
+<rect x="22" y="28" width="48" height="48" rx="12" fill="#F6F8FA" stroke="#D0D7DE"/>
+<text x="46" y="58.5" fill="#1A8F5A" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">in</text>
+<text x="88" y="48" fill="#1F2328" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="600">LinkedIn Engineering</text>
+<text x="88" y="72" fill="#6E7781" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5">linkedin.com/blog/engineering</text>
+<text x="352" y="58" fill="#8C959F" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" text-anchor="middle">↗</text>
+</svg>

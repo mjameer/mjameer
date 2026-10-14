@@ -87,7 +87,7 @@ Books on architecture and observability I keep coming back to:
 <p align="center">
   <a href="https://www.oreilly.com/library/view/observability-engineering/9781492076438/"><img src="./assets/book-cards/observability-engineering.svg" width="32%" alt="Observability Engineering by Majors, Fong-Jones and Miranda" /></a>
   <a href="https://www.oreilly.com/library/view/learning-opentelemetry/9781098147174/"><img src="./assets/book-cards/learning-otel.svg" width="32%" alt="Learning OpenTelemetry by Ted Young and Austin Parker" /></a>
-  <a href="https://www.oreilly.com/library/view/distributed-systems-observability/9781492033431/"><img src="./assets/book-cards/dso.svg" width="32%" alt="Distributed Systems Observability by Cindy Sridharan" /></a>
+  <a href="https://www.oreilly.com/library/view/distributed-systems-observability/9781492033431/"><img src="./assets/book-cards/dso-v3.svg" width="32%" alt="Distributed Systems Observability by Cindy Sridharan" /></a>
 </p>
 
 <br/>

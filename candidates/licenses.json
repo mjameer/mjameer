@@ -1,0 +1,92 @@
+{
+  "01": {
+    "file": "Code_on_computer_monitor_(Unsplash).jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "artist": "Markus Spiske markusspiske",
+    "credit": "https://unsplash.com/photos/Skf7HxARcoc\nImage at the Wayback Machine\n\nGallery at the Wayback Machine",
+    "attribution_required": "false",
+    "page": "https://commons.wikimedia.org/wiki/File:Code_on_computer_monitor_(Unsplash).jpg"
+  },
+  "02": {
+    "file": "Programming_code.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artist": "Martin Vorel",
+    "credit": "Own work",
+    "attribution_required": "true",
+    "page": "https://commons.wikimedia.org/wiki/File:Programming_code.jpg"
+  },
+  "03": {
+    "file": "Datacenter_Server_Racks_(22370909788).jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "artist": "Carl Lender from Sunrise, USA",
+    "credit": "Real Estate",
+    "attribution_required": "true",
+    "page": "https://commons.wikimedia.org/wiki/File:Datacenter_Server_Racks_(22370909788).jpg"
+  },
+  "04": {
+    "file": "Server_racks_-_IMG_3472.jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "artist": "Jemimus",
+    "credit": "https://www.flickr.com/photos/12967790@N00/2528960658/",
+    "attribution_required": "true",
+    "page": "https://commons.wikimedia.org/wiki/File:Server_racks_-_IMG_3472.jpg"
+  },
+  "05": {
+    "file": "Rear_of_rack_at_NERSC_data_center_-_closeup.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "artist": "Derrick Coetzee from Berkeley, CA, USA",
+    "credit": "Rear of rack at NERSC data center - closeup\n\nUploaded by Dcoetzee",
+    "attribution_required": "false",
+    "page": "https://commons.wikimedia.org/wiki/File:Rear_of_rack_at_NERSC_data_center_-_closeup.jpg"
+  },
+  "06": {
+    "file": "Technician_with_laptop_working_on_server_rack_at_NERSC.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "artist": "Derrick Coetzee from Berkeley, CA, USA",
+    "credit": "Technician with laptop working on server rack at NERSC\n\nUploaded by Dcoetzee",
+    "attribution_required": "false",
+    "page": "https://commons.wikimedia.org/wiki/File:Technician_with_laptop_working_on_server_rack_at_NERSC.jpg"
+  },
+  "07": {
+    "file": "19-inch_rackmount_Ethernet_switches_and_patch_panels.jpg",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artist": "Dsimic",
+    "credit": "Own work",
+    "attribution_required": "true",
+    "page": "https://commons.wikimedia.org/wiki/File:19-inch_rackmount_Ethernet_switches_and_patch_panels.jpg"
+  },
+  "08": {
+    "file": "Server_Rack_(54126210834).jpg",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "artist": "Tony Webster",
+    "credit": "Server Rack",
+    "attribution_required": "true",
+    "page": "https://commons.wikimedia.org/wiki/File:Server_Rack_(54126210834).jpg"
+  },
+  "09": {
+    "file": "UPS_Power_Management_Module,_racks_with_network_cabling_in_NERSC_data_center.jpg",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "artist": "Derrick Coetzee from Berkeley, CA, USA",
+    "credit": "UPS Power Management Module, racks with network cabling in NERSC data center (1)\n\nUploaded by Dcoetzee",
+    "attribution_required": "false",
+    "page": "https://commons.wikimedia.org/wiki/File:UPS_Power_Management_Module,_racks_with_network_cabling_in_NERSC_data_center.jpg"
+  },
+  "10": {
+    "file": "Half_filled_server_racks.jpg",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "artist": "Alexis L\u00ea-Qu\u00f4c from New York, United States",
+    "credit": "Almost done\n\nUploaded by MainFrame",
+    "attribution_required": "true",
+    "page": "https://commons.wikimedia.org/wiki/File:Half_filled_server_racks.jpg"
+  }
+}
